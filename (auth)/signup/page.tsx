@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "Sign Up - Open PRO",
-  description: "Page description",
+  title: "Sign Up - Yahweh Software Solutions",
+  description: "Create an account for Yahweh Software Solutions",
 };
 
 import Link from "next/link";

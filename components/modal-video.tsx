@@ -94,9 +94,9 @@ export default function ModalVideo({
               </defs>
             </svg>
             <span className="text-sm font-medium leading-tight text-gray-300">
-              Watch Demo
+              Our Products
               <span className="text-gray-600"> - </span>
-              3:47
+              0:22
             </span>
           </span>
         </span>

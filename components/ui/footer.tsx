@@ -22,14 +22,14 @@ export default function Footer() {
         <div className="grid grid-cols-2 justify-between gap-12 py-8 sm:grid-rows-[auto_auto] md:grid-cols-4 md:grid-rows-[auto_auto] md:py-12 lg:grid-cols-[repeat(4,minmax(0,140px))_1fr] lg:grid-rows-1 xl:gap-20">
           {/* 1st block */}
           <div className="space-y-2">
-            <h3 className="text-sm font-medium text-gray-200">Product</h3>
+            <h3 className="text-sm font-medium text-gray-200">Products</h3>
             <ul className="space-y-2 text-sm">
               <li>
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
-                  Features
+                  Edudibon
                 </a>
               </li>
               <li>
@@ -37,7 +37,7 @@ export default function Footer() {
                   className="text-indigo-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
-                  Integrations
+                  Lynkt
                 </a>
               </li>
               <li>
@@ -45,7 +45,7 @@ export default function Footer() {
                   className="text-indigo-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
-                  Pricing &amp; Plans
+                  Learncast
                 </a>
               </li>
               <li>
@@ -53,7 +53,7 @@ export default function Footer() {
                   className="text-indigo-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
-                  Changelog
+                  PupilTube
                 </a>
               </li>
               <li>
@@ -61,7 +61,7 @@ export default function Footer() {
                   className="text-indigo-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
-                  Our method
+                  Proaddo
                 </a>
               </li>
               <li>
@@ -69,7 +69,7 @@ export default function Footer() {
                   className="text-indigo-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
-                  User policy
+                  Digital Marketing
                 </a>
               </li>
             </ul>
@@ -91,7 +91,7 @@ export default function Footer() {
                   className="text-indigo-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
-                  Diversity &amp; Inclusion
+                  Human Resources Solutions
                 </a>
               </li>
               <li>
@@ -115,7 +115,7 @@ export default function Footer() {
                   className="text-indigo-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
-                  Financial statements
+                  Alumni Portal 
                 </a>
               </li>
             </ul>
@@ -129,7 +129,15 @@ export default function Footer() {
                   className="text-indigo-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
-                  Community
+                  Community Portal 
+                </a>
+              </li>
+              <li>
+                <a
+                  className="text-indigo-200/65 transition hover:text-indigo-500"
+                  href="#0"
+                >
+                  CRM Solutions
                 </a>
               </li>
               <li>
@@ -138,14 +146,6 @@ export default function Footer() {
                   href="#0"
                 >
                   Terms of service
-                </a>
-              </li>
-              <li>
-                <a
-                  className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="#0"
-                >
-                  Report a vulnerability
                 </a>
               </li>
             </ul>
@@ -161,7 +161,7 @@ export default function Footer() {
                   className="text-indigo-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
-                  Templates
+                  K-12 Content 
                 </a>
               </li>
               <li>
@@ -193,7 +193,7 @@ export default function Footer() {
                   className="text-indigo-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
-                  Cookie manager
+                  Smart Board Solutions
                 </a>
               </li>
             </ul>
@@ -205,13 +205,13 @@ export default function Footer() {
             </div>
             <div className="text-sm">
               <p className="mb-3 text-indigo-200/65">
-                © Cruip.com
-                <span className="text-gray-700"> · </span>
+              © Yahweh Software Solutions
+                <span className="text-gray-700"> </span>
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
-                  Terms
+                  Edudibon - ERP Software
                 </a>
               </p>
               <ul className="inline-flex gap-1">
